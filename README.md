@@ -1,6 +1,6 @@
 **Pre-Requisite**
-> PHP
-> CodeIgniter 3
+> PHP, 
+> CodeIgniter 3 &
 > API Rajaongkir
 
 **View Griya Rempah**
