@@ -9,7 +9,7 @@ class Rajaongkir extends CI_Controller {
 		$this->load->model('Slogin_model');
     }
 
-    private $apiKey = '9640fd39cf7b28a4cc330ee48657c388';
+    private $apiKey = 'YOUR_API_KEY_RAJAONGKIR';
 
     public  function provinsi()
     {
